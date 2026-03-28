@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "DEXAPP",
-  description: "A dex for searching pokémon using PokéApi (give a lot of love to 'em for their work)",
+  description: "A dex for searching Pokémon using PokéApi (give a lot of love to 'em for their work)",
 };
 
 export default function RootLayout({
