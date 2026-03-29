@@ -61,7 +61,7 @@ http://localhost:3000
 👉 **Custom Hooks** : More hooks will be added
 
 ## Extra 😏
-I made this in my spare time, and it's hosted on GitHub (which means I don't have any hosting costs), but if you enjoyed the game and feel like buying me ☕, you can donate at my:
+I made this in my spare time, and it's hosted on GitHub (which means I don't have any hosting costs), but if you enjoyed the dex and feel like buying me ☕, you can donate at my:
 <p align="center"><a href="https://www.buymeacoffee.com/adhirserrano"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adhirserrano" /></a><a href="https://ko-fi.com/adhirserrano"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="adhirserrano" /></a></p>
 
 <h3 align="left">Get in touch with me:</h3>
